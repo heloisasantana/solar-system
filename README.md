@@ -2,7 +2,7 @@
 
 Desenvolvido por Heloísa Santana da Silva.
 
-<h3><a href="https://heloisasantana.github.io/solar-system/"> > Acesse aqui o projeto < </a></h3>
+<h3><a href="https://solar-system-tau-ruddy.vercel.app/"> > Acesse aqui o projeto < </a></h3>
 
 <h3>Descrição:</h3>
 
